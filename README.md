@@ -16,11 +16,11 @@
 
 1. Qual o tamanho da circunferência da terra?
 
-[ ] 500.000.000km 
+- [ ] 500.000.000km 
 
-[ ] 600.000.000km
+- [ ] 600.000.000km
 
-[ ] 1.300.522.690km
+- [ ] 1.300.522.690km
 
 2. Você pode ter 5 coisas e escolher uma:
 
@@ -30,7 +30,10 @@
 * 14 dias de férias em dubai.
 * 2 ursos.
 
-
+valor_1 = inserir
+valor_2 = inserir
+Soma = valor_1 + valor_2
+Imprima soma
 
 
 
